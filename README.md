@@ -1,3 +1,6 @@
 # COVID
 COVID-19: Time Series Datasets India versus World
-This dataset consists of COVID-19 time series data of India since 24th March 2020 (the date when the first lockdown was imposed). The data set is for all the States and Union Territories of India and is divided into five parts, including i) Confirmed cases; ii) Death Count; iii) Recovered Cases; iv) Temperature of that place; and v) Percentage humidity in the region. The end users can create multivariate time series to devise new prediction models and other applications as per their requirement. The data set also provides basic details of confirmed cases and death count for all the countries of the world updated daily since 30 January 2020. The end user can contact the corresponding author for more details. 
+Cite as:
+
+
+
